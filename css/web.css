@@ -1015,11 +1015,7 @@ padding: 10px 35px;
            padding:40px 0;
    }
 
-   @media (max-width: 991px) {
-  .works .container {
-    flex-direction: column;
-  }
-}
+
 @media (max-width: 991px) {
   .works .photo img {
     margin: 0 0 50px;
